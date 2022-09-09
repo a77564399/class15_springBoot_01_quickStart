@@ -1,0 +1,10 @@
+server:
+  port: 8081
+
+name: zhangsan
+#对象配置
+
+
+
+#  - name: lisi
+#    age: 19
